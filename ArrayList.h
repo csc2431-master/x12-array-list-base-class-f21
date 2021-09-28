@@ -50,7 +50,7 @@ protected:
 };
 
 /**
- * Default constructor
+ * Constructor
  * Creates an empty list.
  */
 template <typename ItemType>
